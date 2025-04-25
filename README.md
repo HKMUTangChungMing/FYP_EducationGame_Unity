@@ -2,8 +2,10 @@
 FYP_EducationGame_Unity
 
 
-# Demo Moive
-[![Watch the video](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250424151712304.png)](https://pdm888.oss-cn-beijing.aliyuncs.com/%E6%8B%BC%E9%9F%B3/M/20250424_155519.mp4)
+# Demo 
+![thmpv-l6x40.gif](https://s2.loli.net/2025/04/25/Ac5hRrTSisNPI6V.gif)
+![tt8v6-ll635.gif](https://s2.loli.net/2025/04/25/ZqOCPrEnL4Mtasv.gif)
+
 
 # UnityGame_Downlaod LINK
 
